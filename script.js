@@ -1,5 +1,3 @@
-console.log('lalala')
-
 // const element = <h1 title="foo">Hello</h1>
 
 // const element = React.createElement(
